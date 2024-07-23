@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardChess", "HardChess\HardChess.csproj", "{9C873E02-2355-40AF-B221-B0665A545356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "home", "home\home.csproj", "{89B8EA51-AC74-4F98-96F4-D7A552523AEA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{9C873E02-2355-40AF-B221-B0665A545356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C873E02-2355-40AF-B221-B0665A545356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C873E02-2355-40AF-B221-B0665A545356}.Release|Any CPU.Build.0 = Release|Any CPU
-		{89B8EA51-AC74-4F98-96F4-D7A552523AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{89B8EA51-AC74-4F98-96F4-D7A552523AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{89B8EA51-AC74-4F98-96F4-D7A552523AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{89B8EA51-AC74-4F98-96F4-D7A552523AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
