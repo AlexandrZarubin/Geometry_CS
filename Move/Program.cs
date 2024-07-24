@@ -10,6 +10,7 @@ namespace Move
 	{
 		static void Main(string[] args)
 		{
+
 		}
 	}
 }
