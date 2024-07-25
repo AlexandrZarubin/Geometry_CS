@@ -12,7 +12,7 @@ namespace HardChess
 		static void Main(string[] args)
 		{
 			
-			Console.OutputEncoding = System.Text.Encoding.UTF8;
+			//Console.OutputEncoding = System.Text.Encoding.UTF8;
 #if false
 			for (int symbolCode = 0; symbolCode < 10000; symbolCode++)
 			{
